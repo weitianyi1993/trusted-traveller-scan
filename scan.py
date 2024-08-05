@@ -9,7 +9,7 @@ import pygame
 # Constants
 URL = "https://ttp.cbp.dhs.gov/schedulerapi/slot-availability?locationId=5020"
 SENDER_EMAIL = "weitianyi321@gmail.com"
-APP_PASSWORD = "zrbu vdaq ovzw odsj"  # Use the app password generated
+APP_PASSWORD = "XXXXXX"  # Use the app password generated
 RECEIVER_EMAIL = "weitianyi321@gmail.com"
 CHECK_INTERVAL = 3  # Check every 20 seconds
 SEND_INTERVAL = 20
